@@ -1,0 +1,50 @@
+* {
+    margin: 0%;
+}
+button{
+    position: absolute;
+    z-index:3;
+    top:40%;
+    margin: 100px;
+}
+body {
+    overflow: hidden;
+}
+.bu{
+    display: flex;
+    justify-content: space-around;
+    position: absolute;
+    z-index:3;
+    top:40%;
+}
+.no{
+    margin: 700%;
+    margin-top: 40%;
+    color: white;
+    background-color: rgba(0, 0, 0, 0.492);
+    width: 100%;
+}
+
+img{
+    width: 65%;
+    height: auto;
+}
+h1{
+    background-color:whitesmoke;
+    position: absolute;
+    top: 50%;
+    left:50%;
+}
+.title{
+    background-color: white;
+    color: black;
+    position: absolute;
+    top: 50%;
+    left: 40%;
+}
+.des{
+    background-color: white;
+    color: black;
+    position: absolute;
+    top:90%;
+}
